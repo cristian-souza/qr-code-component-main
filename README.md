@@ -22,7 +22,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- URL da solução: [Repositorio no GitHub](https://github.com/cristian-souza/qr-code-component-main.git)
+- URL da solução: [Repositório no GitHub](https://github.com/cristian-souza/qr-code-component-main.git)
 - URL do site ativo: [Pagina do QR-Code](https://cristian-souza.github.io/qr-code-component-main/)
 
 ## Meu processo
