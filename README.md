@@ -22,8 +22,8 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [Adicione a URL da solução aqui](https://github.com/cristian-souza/qr-code-component-main.git)
+- URL do site ativo: [Adicione a URL do site ativo aqui](https://cristian-souza.github.io/qr-code-component-main/)
 
 ## Meu processo
 
